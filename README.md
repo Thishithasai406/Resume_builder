@@ -32,11 +32,13 @@ A beautiful, feature-rich personal resume building web application built with va
 
 ## 📁 Project Structure
 
-`resume-builder/`
-├── `main.html`         # Main HTML structure and UI components
-├── `styles.css`        # All styling, animations, and responsive design
-├── `main.js`           # Application logic and functionality
-└── `README.md`         # Project documentation
+```
+resume-builder/
+├── main.html         # Main HTML structure and UI components
+├── styles.css        # All styling, animations, and responsive design
+├── main.js           # Application logic and functionality
+└── README.md         # Project documentation
+```
 
 ### File Descriptions
 *   **main.html**: Contains the semantic HTML structure for the input forms, AI assistant controls, and the resume preview pane.
@@ -50,12 +52,6 @@ A beautiful, feature-rich personal resume building web application built with va
 3.  **Use the AI Assistant (Optional)**: Paste a job description into the AI assistant text area and click the buttons to generate content.
 4.  **Download**: Once you're happy with the result, click the "Download Resume" button.
 
-## 🛠️ Technical Features
-
-*   **Performance**: Built with vanilla JavaScript for a fast and lightweight experience with no external framework dependencies.
-*   **Client-Side Logic**: All operations, from resume generation to AI suggestions, are handled in the browser. There is no server-side processing.
-*   **PDF Generation**: Utilizes the `html2pdf.js` library to convert the live preview's HTML content directly into a downloadable PDF.
-
 ## 🔧 Customization
 
 *   **Adding New Templates**: To add a new template, you would need to:
@@ -68,14 +64,8 @@ A beautiful, feature-rich personal resume building web application built with va
 
 Contributions are always welcome! If you spot a bug, have an idea for improvement, or want to add a new feature, feel free to open an issue or submit a pull request.
 
-1.  Fork the repository.
-2.  Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4.  Push to the branch (`git push origin feature/AmazingFeature`).
-5.  Open a Pull Request.
-
 ## 🙏 Acknowledgments
 
 *   Inspired by modern resume-building tools.
-*   Special thanks to the creators of `html2pdf.js`.
-*   Built with ❤️ using HTML, CSS, and JavaScript.
+---
+**Built with ❤️ using HTML, CSS, and JavaScript.**
