@@ -43,7 +43,7 @@ resume-builder/
 ### File Descriptions
 *   **main.html**: Contains the semantic HTML structure for the input forms, AI assistant controls, and the resume preview pane.
 *   **styles.css**: Provides all the styling for the application, including the layout, form elements, and the five unique resume templates.
-*   **main.js**: Houses the complete client-side logic, including DOM manipulation, real-time preview updates, template switching, AI feature implementation, and PDF generation via `html2pdf.js`.
+*   **main.js**: Houses the complete client-side logic, including DOM manipulation, real-time preview updates, template switching, AI feature implementation.
 
 ## 🎮 How to Use
 
