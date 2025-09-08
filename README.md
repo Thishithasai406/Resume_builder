@@ -36,7 +36,7 @@ A beautiful, feature-rich personal resume building web application built with va
 resume-builder/
 ├── main.html         # Main HTML structure and UI components
 ├── styles.css        # All styling, animations, and responsive design
-├── main.js           # Application logic and functionality
+├── java.js           # Application logic and functionality
 └── README.md         # Project documentation
 ```
 
