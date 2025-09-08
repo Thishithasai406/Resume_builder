@@ -43,7 +43,7 @@ resume-builder/
 ### File Descriptions
 *   **main.html**: Contains the semantic HTML structure for the input forms, AI assistant controls, and the resume preview pane.
 *   **styles.css**: Provides all the styling for the application, including the layout, form elements, and the five unique resume templates.
-*   **main.js**: Houses the complete client-side logic, including DOM manipulation, real-time preview updates, template switching, AI feature implementation.
+*   **java.js**: Houses the complete client-side logic, including DOM manipulation, real-time preview updates, template switching, AI feature implementation.
 
 ## 🎮 How to Use
 
@@ -57,8 +57,8 @@ resume-builder/
 *   **Adding New Templates**: To add a new template, you would need to:
     1.  Add a new template option in `main.html`.
     2.  Create the corresponding CSS styles for the new template in `styles.css`.
-    3.  Update the template switching logic in `main.js` to handle the new template.
-*   **Modifying AI Behavior**: The AI's knowledge base (skills, summary templates, action verbs) is located in `main.js` and can be expanded or modified.
+    3.  Update the template switching logic in `java.js` to handle the new template.
+*   **Modifying AI Behavior**: The AI's knowledge base (skills, summary templates, action verbs) is located in `java.js` and can be expanded or modified.
 
 ## 🤝 Contributing
 
