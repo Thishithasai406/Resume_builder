@@ -2,6 +2,8 @@
 
 A beautiful, feature-rich personal resume building web application built with vanilla HTML, CSS, and JavaScript. Create your resume, choose from multiple templates, get AI-powered suggestions, and download a professional PDF with style!
 
+Check out the demo video here: [Watch Video](https://youtu.be/8ox2GWpGuPA)
+
 ## ✨ Features
 
 *   **📄 Resume Crafting**
